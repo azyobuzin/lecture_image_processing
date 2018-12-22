@@ -1,0 +1,1 @@
+- photo-92-600x400.jpg: https://time-space.kddi.com/freefamily/archives/92
