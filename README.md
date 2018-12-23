@@ -6,7 +6,8 @@
 - [課題4: 画像のヒストグラム](kadai4.ipynb)
 - [課題5: 判別分析法](kadai5.ipynb)
 - [課題6: 画像の二値化](kadai6.ipynb)
-- 課題7～10: まだ
+- [課題7: ダイナミックレンジの拡大](kadai7.ipynb)
+- 課題8～10: まだ
 
 ## なぜ Python？
 - Jupyter Notebook のファイルは GitHub 上でプレビューできる
