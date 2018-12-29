@@ -7,13 +7,14 @@ import numpy as np
 # 定数
 IMAGE1_PATH = 'image1.jpg'
 IMAGE2_PATH = 'image2.jpg'
+IMAGE3_PATH = 'image3.jpg'
 
 # from prelude import * でインポートするものリスト
 __all__ = [
     # ライブラリ
     'PIL', 'display', 'matplotlib', 'np', 'plt',
     # 定義
-    'IMAGE1_PATH', 'IMAGE2_PATH'
+    'IMAGE1_PATH', 'IMAGE2_PATH', 'IMAGE3_PATH'
 ]
 
 # 日本語対応フォントに変更
