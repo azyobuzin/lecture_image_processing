@@ -8,7 +8,8 @@
 - [課題6: 画像の二値化](kadai6.ipynb)
 - [課題7: ダイナミックレンジの拡大](kadai7.ipynb)
 - [課題8: ラベリング](kadai8.ipynb)
-- 課題9,10: まだ
+- [課題9: メディアンフィルタと先鋭化](kadai9.ipynb)
+- [課題10: 画像のエッジ抽出](kadai10.ipynb)
 
 ## なぜ Python？
 - Jupyter Notebook のファイルは GitHub 上でプレビューできる
